@@ -490,16 +490,16 @@
 
 <script>
   // 🔴 بيانات Firebase
-  const firebaseConfig = {
 
-
-  apiKey: "AIzaSyDNVsGev89Jo38h3laGW9oGPKhhplYZ3nA",
-  authDomain: "kpi-analysis-ef742.firebaseapp.com",
-  projectId: "kpi-analysis-ef742",
-  storageBucket: "kpi-analysis-ef742.firebasestorage.app",
-  messagingSenderId: "475386199880",
-  appId: "1:475386199880:web:e0e23822650c7f57627d7d",
-  measurementId: "G-99JM24SW9X"
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDsK_MQtumOt6cfvm9X52KZ-O6Qvy4mC2E",
+  authDomain: "memd-826c8.firebaseapp.com",
+  projectId: "memd-826c8",
+  storageBucket: "memd-826c8.firebasestorage.app",
+  messagingSenderId: "350798152437",
+  appId: "1:350798152437:web:954286e6df846f23fe7bbc",
+  measurementId: "G-L3FHYELYEZ"
   };
 
   firebase.initializeApp(firebaseConfig);
